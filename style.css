@@ -1,0 +1,144 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+.border-container {
+    background-color: black;
+    border: 2px solid rgb(0, 255, 255);
+}
+.titleContainer {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    border-bottom: 2px solid rgb(0, 255, 255);
+}
+.title {
+    text-align: center;
+    color: rgb(0, 255, 255);
+}
+.navBarContainer {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+.vertNavBar {
+    position: relative;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    border-bottom: 2px solid rgb(0, 255, 255);
+}
+.li {
+    float: left;
+    box-sizing: inherit;
+    color:rgb(0, 255, 255);
+    display: inline-block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 1px solid rgb(0, 255, 255);
+}
+.li:hover {
+    background-color:rgb(0, 255, 255);
+    color: black;
+}
+#rightLi {
+    float: right;
+    box-sizing: inherit;
+    color:rgb(0, 255, 255);
+    display: inline-block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-left: 1px solid rgb(0, 255, 255);
+}
+#rightLi:hover {
+    background-color: rgb(0, 255, 255);
+    color: black;
+}
+.navBarContainer {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+.container {
+    position: relative;
+    margin-top: 0px;
+    padding: 0px;
+    background-color: black;
+}
+.spacer {
+    font-size: 1000;
+}
+.spacerEX {
+    color:rgb(0, 255, 255);
+    margin-left: 5px;
+}
+.game {
+    border-bottom: 2px solid rgb(0, 255, 255);
+}
+.gameEmbed {
+    margin-left: 65px;
+    border: 1px solid rgb(0, 255, 255);
+}
+.gameEX {
+    color:rgb(0, 255, 255);
+    margin-left: 10px;
+}
+#test {
+    color: white;
+}
+.abtmeSubtitle {
+    color:rgb(0, 255, 255);
+    text-align: center;
+    text-align: top;
+    border-bottom: 2px solid rgb(0, 255, 255);
+}
+.spacer2 {
+    font-size: 1000;
+}
+.abtMEinfoContainer {
+    float: right;
+    margin-right: 20px;
+    border: 1px solid rgb(0, 255, 255);
+}
+.abtMEinfo {
+    color: rgb(0, 255, 255);
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.abtMEimg {
+    margin-left: 20px;
+    border: 1px solid rgb(0, 255, 255);
+}
+.smallSpacer {
+    font-size: 100;
+}
+.backTOtopL {
+    position: relative;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    border-bottom: 2px solid rgb(0, 255, 255);
+}
+.backTOtop {
+    float: right;
+    box-sizing: inherit;
+    color:rgb(0, 255, 255);
+    display: inline-block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-top: 1px solid rgb(0, 255, 255);
+    border-left: 1px solid rgb(0, 255, 255);
+}
+.backTOtop:hover {
+    background-color: rgb(0, 255, 255);
+    color: black;
+}
